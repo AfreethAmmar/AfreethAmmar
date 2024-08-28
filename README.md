@@ -1,5 +1,5 @@
+<img src="https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png" alt="Github_header" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Afreeth Ammar</h1>
-
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreethammar&label=Profile%20views&color=0e75b6&style=flat" alt="afreethammar" /> </p>
 
