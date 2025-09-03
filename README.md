@@ -1,7 +1,7 @@
 <img src="https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png" alt="Github_header" style="max-width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Afreeth Ammar</h1>
-<h3 align="center">A passionate Full-Stack Developer & UI/UX Enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg">
 
