@@ -31,29 +31,10 @@
 
 ---
 
-### 📌 Featured Projects (Pinned)
-
-#### 📚 [Pahana Educational Bookshop System](https://github.com/afreethammar/Pahana_Edu)
-A full-stack **Java + React** application for managing bookshop operations.  
-- ✅ Role-based authentication (Admin, User, Customer, Cashier)  
-- ✅ Customer & Product Management  
-- ✅ Billing system with automated reporting  
-- ✅ MySQL backend with stored procedures and triggers  
-
-![Repo Stars](https://img.shields.io/github/stars/afreethammar/Pahana_Edu?style=social)
-![Repo Forks](https://img.shields.io/github/forks/afreethammar/Pahana_Edu?style=social)
-
----
-
-#### 🏋️ [Gym Management System](https://github.com/afreethammar/Gym-Management-Web)
-A **Web App** for managing gym memberships, trainers, and subscriptions.  
-- ✅ Member registration & subscription plans  
-- ✅ Trainer assignments and attendance tracking  
-- ✅ Secure authentication & role-based access  
-- ✅ Responsive UI with modern design  
-
-![Repo Stars](https://img.shields.io/github/stars/afreethammar/Gym-Management-Web?style=social)
-![Repo Forks](https://img.shields.io/github/forks/afreethammar/Gym-Management-Web?style=social)
+### 🚀 Featured Projects
+- 📚 **Pahana Educational Bookshop System** – Full-stack Java + React application for bookshop billing & management.  
+- 🏋️ **Gym Management System** – Web app for managing memberships, trainers, and payments.  
+- 🎨 **UI/UX Portfolio** – Modern responsive designs with Tailwind CSS & Figma.  
 
 ---
 
