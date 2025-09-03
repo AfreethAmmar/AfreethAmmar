@@ -1,83 +1,73 @@
+<!-- Header Banner -->
 <img src="https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png" alt="Github_header" style="max-width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Afreeth Ammar</h1>
-<h3 align="center">A passionate Full-Stack Developer & UI/UX Enthusiast from Sri Lanka</h3>
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=afreethammar&label=Profile%20views&color=0e75b6&style=flat" alt="afreethammar" /> 
-</p>
+<h3 align="center">Full-Stack Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 
 ---
 
-### 🔭 I’m currently working on
-- **Web-Based Projects & UI/UX Design**
-- **Pahana Educational Bookshop Management System**
-- **Gym Management Web Application**
-
-### 🌱 I’m currently learning
-- **Full Stack Web Engineering**
-- React.js, Node.js, Express.js, MySQL
-
-### 💬 Ask me about
-- **HTML, CSS, JavaScript, PHP, MySQL**
-
-### 📫 How to reach me
-- **afreethammar123@gmail.com**
+### 👨‍💻 About Me
+- 🔭 Currently working on **Web-Based Projects & UI/UX Design**  
+- 🌱 Expanding my skills in **Full Stack Web Engineering** (React, Node.js, Express, MySQL)  
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**  
+- 📫 Reach me at **afreethammar123@gmail.com**  
+- ⚡ Fun fact: *“I love turning ideas into user-friendly digital solutions.”*  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://codepen.io/afreethammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-<a href="https://fb.com/afreethdhawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr.__dhawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://codepen.io/afreethammar" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://fb.com/afreethdhawan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/mr.__dhawan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages & Tools
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://react.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,express,git,figma" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📌 Featured Projects (Pinned)
 
+#### 📚 [Pahana Educational Bookshop System](https://github.com/afreethammar/Pahana_Edu)
+A full-stack **Java + React** application for managing bookshop operations.  
+- ✅ Role-based authentication (Admin, User, Customer, Cashier)  
+- ✅ Customer & Product Management  
+- ✅ Billing system with automated reporting  
+- ✅ MySQL backend with stored procedures and triggers  
+
+![Repo Stars](https://img.shields.io/github/stars/afreethammar/Pahana_Edu?style=social)
+![Repo Forks](https://img.shields.io/github/forks/afreethammar/Pahana_Edu?style=social)
+
+---
+
+#### 🏋️ [Gym Management System](https://github.com/afreethammar/Gym-Management-Web)
+A **Web App** for managing gym memberships, trainers, and subscriptions.  
+- ✅ Member registration & subscription plans  
+- ✅ Trainer assignments and attendance tracking  
+- ✅ Secure authentication & role-based access  
+- ✅ Responsive UI with modern design  
+
+![Repo Stars](https://img.shields.io/github/stars/afreethammar/Gym-Management-Web?style=social)
+![Repo Forks](https://img.shields.io/github/forks/afreethammar/Gym-Management-Web?style=social)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afreethammar&show_icons=true&theme=tokyonight" alt="afreethammar stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afreethammar&show_icons=true&theme=tokyonight" alt="stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afreethammar&theme=tokyonight" alt="streak" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afreethammar&theme=tokyonight" alt="afreethammar streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afreethammar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="afreethammar langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afreethammar&layout=compact&theme=tokyonight" alt="langs" height="160" />
 </p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+### ✨ Quote
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
